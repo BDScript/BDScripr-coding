@@ -1,0 +1,5 @@
+$nomention
+$title[P O N G]
+$addField[Latency is :; $ping ms]
+$footer[Iam online in $uptime]
+$color[5268]
