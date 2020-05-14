@@ -1,0 +1,6 @@
+\\before that, set Variable : Bal and Value : 0
+$nomention
+$title[DAILY]
+$description[You u already claimed daily balance this day!]
+$setUserVar[bal;50]
+$color[1639]
