@@ -1,0 +1,5 @@
+
+$nomention
+$author[Widget Generator]
+$description[[Click here](https://discord.com/widget?id=$guildID&theme=dark)]
+$footer[Enable Server Widget first!]
